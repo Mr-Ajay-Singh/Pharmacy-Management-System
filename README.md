@@ -1,5 +1,4 @@
 # Pharmacy-Management-System
-# KBC-Quiz-App
 
 
 A desktop application used to manage the data of a pharmacy.Java Swing for frontend and MySQL for database and Netbeans as IDE is used.
